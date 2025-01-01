@@ -1,0 +1,5 @@
+git init            -- initializes repository for the first time
+git status          -- displayes files staged ready to be commited
+git log             -- displays history of changes of current branch
+git add .           -- adds all files to staging area, include name for specific file
+git commit -m ""    -- commits files from staging area, include a brief description
