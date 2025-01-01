@@ -1,2 +1,2 @@
 const hello = "hello world";
-const x = 0;
+// const x = 0;
